@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "antd": "^3.20.5",
     "concurrently": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   }
 }
